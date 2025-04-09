@@ -77,7 +77,7 @@ git clone https://github.com/azkizaini/Backend_Medpoint.git  # HTTPS
 ```
 or
 ```bash
-git clone git@github.com:azkizaini/Backend_medpoint.git      # SSH
+git clone git@github.com:azkizaini/Backend_Medpoint.git      # SSH
 ```
 
 then
