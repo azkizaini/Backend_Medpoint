@@ -73,7 +73,15 @@ raiden version                                              # Verify installatio
 ### Run this Project
 
 ```bash
-git clone https://github.com/azkizaini/Backend_Medpoint.git or git@github.com:azkizaini/Backend_medpoint.git
+git clone https://github.com/azkizaini/Backend_Medpoint.git  # HTTPS
+```
+or
+```bash
+git clone git@github.com:azkizaini/Backend_medpoint.git      # SSH
+```
+
+then
+```bash
 cd Backend_Medpoint
 
 go mod tidy
